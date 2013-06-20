@@ -26,6 +26,13 @@ h2{
 h3{
 	font-size: 1.3em;
 }
+.subtitle {
+  font-size: 1em;
+  font-weight: normal;
+  font-style: italic;
+  color: $color-gray02;
+  line-height: 1.6em;
+}
 a{
 	text-decoration: none;
 	outline-width: 0;
