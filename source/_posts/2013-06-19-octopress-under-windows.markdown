@@ -3,6 +3,7 @@ layout: post
 title: "Octopress Under Windows"
 date: 2013-06-19 19:56
 comments: true
+sharing: false
 categories: meta
 ---
 
