@@ -4,7 +4,7 @@ title: "Octopress Under Windows"
 date: 2013-06-19 19:56
 comments: true
 sharing: false
-categories: meta
+categories: [windows, meta]
 ---
 
 When running the `setup_github_pages` task, the
