@@ -11,4 +11,4 @@ Recently discovered [Chocolatey](http://chocolatey.org/), which I'll be using fo
 
 Chocolatey both suffers and benefits from its community-driven packages. While there are a large number of packages available, especially compared to similar windows tools, several packages I tried are were not functioning and seem abandoned.
 
-My current install script and package lists can be found [here](https://github.com/Billiam/chocolate-setup).
+My current install script and package lists can be found [here](https://github.com/Billiam/chocolatey-setup).
