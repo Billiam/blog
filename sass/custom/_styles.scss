@@ -1,2 +1,34 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+$pre-bg: #eaeaea;
+
+figure.code {
+  background: $pre-bg;
+  border: 1px solid transparent;
+  border-bottom-color: #fff;
+  border-top-color: #ccc;
+  overflow: hidden;
+
+  figcaption span {
+    background: #dedede;
+    font-weight:bold;
+    color: #888;
+  }
+  .gi, .gd {
+    width: 100%;
+  }
+}
+article {
+  .entry-content table,
+  code {
+    background-color: $pre-bg;
+  }
+}
+
+#sub-nav{
+  .search{
+    input[type="text"]{
+      background: #f8f8f8;
+    }
+  }
+}
