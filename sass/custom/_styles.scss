@@ -17,11 +17,15 @@ figure.code {
   .gi, .gd {
     width: 100%;
   }
+  code {
+    white-space: pre;
+  }
 }
 article {
   .entry-content table,
   code {
     background-color: $pre-bg;
+    white-space: nowrap;
   }
 }
 
